@@ -1,3 +1,4 @@
 hello mother fucker!
 hello father mucker!
 hello fucker fucker!
+hello test fetch and merge function
